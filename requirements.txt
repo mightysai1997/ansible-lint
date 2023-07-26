@@ -13,7 +13,7 @@ attrs==22.1.0
 babel==2.10.3
 black==22.8.0
 bracex==2.3.post1
-certifi==2022.6.15.1
+certifi==2023.7.22.1
 cffi==1.15.1
 charset-normalizer==2.1.1
 click==8.1.3
